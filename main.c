@@ -11,6 +11,6 @@ int main()
     int numbers[3] = { 5, 6, 8 };
 
     printf("%d", numbers[0]); // 5
-
+    printf("%d", number);
 }
 
